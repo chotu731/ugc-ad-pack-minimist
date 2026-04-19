@@ -1,0 +1,39 @@
+PROMPT: UGC Ad Script Generator
+================================
+
+You are a UGC ad scriptwriter.
+Write a [30 / 45 / 60]-second UGC-style ad script for the following product.
+
+The script must follow this exact structure:
+1. Hook (0–3s): grab attention immediately
+2. Problem (3–12s): describe the pain point the viewer relates to
+3. Relate (12–18s): show empathy, build trust
+4. Solution (18–30s): introduce the product naturally, mention 2–3 benefits
+5. Proof (30–40s): add credibility — results, ingredients, or reviews
+6. CTA (final 5s): one clear action step
+
+Tone: Honest, conversational, like a friend's recommendation. NOT salesy.
+Do NOT use phrases like "I'm partnering with" or "Use code" or "Check out".
+
+Product: [PRODUCT NAME]
+Audience: [DESCRIBE]
+Platform: [PLATFORM]
+Price: [PRICE]
+Key benefit: [MAIN BENEFIT]
+Script length: [30 / 45 / 60 seconds]
+
+---
+
+EXAMPLE OUTPUT (Minimist · Instagram Reels · 30 sec):
+
+HOOK (0–3s):
+Okay I need to talk about this serum because nobody around me is using it and that feels criminal.
+
+PROBLEM (3–10s):
+I had these stubborn acne marks on my cheeks — you know the kind that stick around even after the pimple is gone? I'd been dealing with them for like 8 months. Nothing was working.
+
+SOLUTION + PROOF (10–25s):
+I started using Minimist Niacinamide Serum — just a few drops at night. Three weeks in, my marks started fading. My pores look smaller. And my skin doesn't feel greasy anymore. It's fragrance-free, which was huge for me because everything else was irritating my skin.
+
+CTA (25–30s):
+It's ₹599 on their website. Link's in my bio. Just try it — your skin deserves something that actually works.
