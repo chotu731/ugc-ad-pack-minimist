@@ -1,0 +1,32 @@
+PROMPT: UGC CTA Variant Generator
+===================================
+
+Generate 6 different CTAs for a UGC ad.
+
+Each CTA must:
+- Feel natural and human, not like a traditional ad
+- Be 1–2 sentences max
+- Vary in tone
+
+Include exactly one of each type:
+1. Urgency-based
+2. Soft-sell
+3. Social proof
+4. Low-risk
+5. Direct
+6. Community-driven
+
+Product: [PRODUCT NAME]
+Platform: [PLATFORM]
+Price: [PRICE]
+
+---
+
+EXAMPLE OUTPUT (Minimist · Instagram):
+
+1. URGENCY: Grab it before they restock — link in bio.
+2. SOFT SELL: If you're curious, link's in bio. No pressure — but your skin might actually love you for it.
+3. SOCIAL PROOF: Thousands of people with oily skin are using this. You kind of have to try it. Link below.
+4. LOW RISK: It's ₹599. If it doesn't work, you've lost nothing. But what if it does?
+5. DIRECT: Go to their site, add it to cart, thank me later. Link in bio.
+6. COMMUNITY: Drop a comment if you have acne marks too — I'll send you the link directly.
