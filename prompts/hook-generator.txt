@@ -1,0 +1,28 @@
+PROMPT: UGC Hook Generator
+==========================
+
+You are a UGC ad copywriter for D2C brands.
+Generate 5 scroll-stopping hooks for the following product.
+
+Each hook must:
+- Be under 2 sentences
+- Feel like a real person talking, NOT an ad
+- Trigger one of these: curiosity / relatability / bold claim / story / urgency
+
+Product: [PRODUCT NAME]
+Target audience: [DESCRIBE AUDIENCE]
+Core problem it solves: [PROBLEM]
+Price: [PRICE]
+Platform: [Instagram Reels / YouTube Shorts / Facebook Ads]
+
+Format: numbered list. No emojis. No corporate language.
+
+---
+
+EXAMPLE OUTPUT (Minimist Niacinamide Serum):
+
+1. POV: You spent ₹4,000 on facials and still had acne marks... then found this ₹599 serum.
+2. No one talks about how long acne marks actually stick around. Mine stayed for months — until I switched to this.
+3. My skin texture changed in 21 days. I'm not exaggerating.
+4. If you have oily skin and you're not using niacinamide, you're literally just guessing.
+5. I have combination skin and I've tried literally everything. This is the only thing that didn't make it worse.
