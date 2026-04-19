@@ -1,0 +1,43 @@
+PROMPT: UGC Instagram Caption Generator
+=========================================
+
+Write 3 Instagram captions for a UGC-style paid ad post.
+
+Each caption must:
+- Start with a hook line (no hashtags in the first line)
+- Sound like a real person, not a brand
+- Mention the product naturally mid-caption
+- End with a CTA and 5–7 relevant hashtags
+- Be under 150 words
+
+Write one caption in each tone:
+1. Casual / funny
+2. Educational
+3. Story-led / emotional
+
+Product: [PRODUCT NAME]
+Core result: [E.g. fades acne marks in 3 weeks]
+Price: [PRICE]
+Platform: Instagram
+
+---
+
+EXAMPLE OUTPUT (Minimist Niacinamide Serum):
+
+CASUAL:
+told my skin to chill and it actually listened
+3 weeks on Minimist Niacinamide Serum and my acne marks are visibly lighter.
+It's ₹599 and it's the best money i've spent on my skin all year.
+Link in bio.
+#skincare #niacinamide #acnemarks #glowup #skincareIndia
+
+EDUCATIONAL:
+if you have oily skin, niacinamide might be the one ingredient you're missing
+It controls oil, fades dark spots, shrinks pores. Minimist packs 10% niacinamide + zinc into a ₹599 serum. Dermatologist tested. Fragrance free.
+#skincaretips #oilyskin #niacinamide10 #acnescars #indianskincare
+
+STORY-LED:
+i used to spend so much time covering my acne marks with foundation before going out.
+i don't do that anymore.
+Minimist Niacinamide Serum. 3 weeks. ₹599. link in bio.
+#skincareroutine #acnerecovery #minimist #realskincare #glow
